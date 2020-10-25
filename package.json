@@ -1,0 +1,16 @@
+{
+  "name": "cssclock",
+  "version": "1.0.0",
+  "description": "Clock made by css",
+  "main": "index.js",
+  "scripts": {
+    "run": "http-server",
+    "debug:watch": "live-server"
+  },
+  "author": "David Setién Berodia",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
